@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Sai Surya Prakash</h1>
 <h5 align="center">
-I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies with a specialization of ML, from GVP. I am a web developer. 
+I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies with a specialization of ML, from GVP. I am a front end developer. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryacoder&label=Profile%20views&color=0e75b6&style=flat" alt="suryacoder" /> </p>
 <p>
